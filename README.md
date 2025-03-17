@@ -7,6 +7,6 @@
 </head>
 <body>
     <h1>你好</h1>
-    <p>wwww我是帅哥</p>
+    <p>我是帅哥</p>
 </body>
 </html>
